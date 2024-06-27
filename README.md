@@ -4,7 +4,7 @@
 
 <h5>Render the results to the page in html elements.</h5>
 
-<5>Hide the results from the previous actions</
+<h5>Hide the results from the previous actions</h5>
 
 <ul>
 <li>Get all posts</li>
